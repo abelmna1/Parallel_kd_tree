@@ -1,4 +1,4 @@
-Parallel k-NN
+Parallel k-d tree to find k-nearest neighbors
 
 Adam Belmnahia
 abelmna1@binghamton.edu
