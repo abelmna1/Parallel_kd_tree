@@ -15,4 +15,6 @@ NOTES:
 - if number of cores is greater than the number of queries,
 each core will run a query.
 
+- Custom variant of g++ used from bing.edu remote cluster. Use default g++ if the former version is unavailable.
+
 - No errors to report
